@@ -1,4 +1,4 @@
-# Git
+# git checkout --orphan branch
 
 ```text
 Мы закоммитили ветку однажды,
